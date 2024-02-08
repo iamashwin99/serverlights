@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "dali-client"
-version = "1.8.2/1.0.11"
+version = "1.8.2"
 description = "A client library for accessing Dali"
 authors = []
 readme = "README.md"
